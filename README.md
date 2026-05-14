@@ -1,16 +1,37 @@
-## Hi there 👋
+# Arthur Vettorazzo
 
-<!--
-**ArthurVETTORAZZOSouza/ArthurVETTORAZZOSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at FIAP and Systems Development technical student, focused on backend development, cloud computing and real-world software projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Studying Computer Science at FIAP
+- Technical student in Systems Development
+- Currently learning Backend, PostgreSQL and AWS
+- Building projects to improve my software engineering skills
+
+## Technologies
+
+- Python
+- PostgreSQL
+- Git & GitHub
+- AWS
+- HTML/CSS
+- JavaScript
+
+## Current Goals
+
+- Build strong backend projects
+- Improve cloud and database knowledge
+- Create a professional portfolio
+- Get my first opportunity in tech
+
+## Contact
+
+- LinkedIn: your-link
+- Email: your-email
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true)
