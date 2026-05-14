@@ -1,37 +1,23 @@
 # Arthur Vettorazzo
 
-Computer Science student at FIAP and Systems Development technical student, focused on backend development, cloud computing and real-world software projects.
+Computer Science student at FIAP and Associate Degree in Systems Development, focused on backend development andcloud computing
 
 ## About Me
 
 - Studying Computer Science at FIAP
-- Technical student in Systems Development
+-  Associate Degree in Systems Development
 - Currently learning Backend, PostgreSQL and AWS
 - Building projects to improve my software engineering skills
 
-## Technologies
-
-- Python
-- PostgreSQL
-- Git & GitHub
-- AWS
-- HTML/CSS
-- JavaScript
 
 ## Current Goals
 
 - Build strong backend projects
 - Improve cloud and database knowledge
-- Create a professional portfolio
-- Get my first opportunity in tech
 
 ## Contact
 
-- LinkedIn: your-link
-- Email: your-email
+- LinkedIn: www.linkedin.com/in/arthur-vettorazzo-11a0b82b4
+- Email: arthur.vettorazzo@gmail.com
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true)
